@@ -5,4 +5,5 @@
 - :computer: Know more about my research: https://misaki-rx.github.io/
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misaki-rx)](https://github.com/anuraghazra/github-readme-stats) -->
-![Misaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=misaki-rx&count_private=true&show_icons=true&theme=dracula)
+<!-- ![Misaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=misaki-rx&count_private=true&show_icons=true&theme=dracula) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
